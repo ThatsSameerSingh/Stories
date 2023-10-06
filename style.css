@@ -1,0 +1,86 @@
+*{
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    background-color: rgb(29, 204, 248);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#card{
+    height: 400px;
+    width: 300px;
+    background-color: white;
+    border-radius: 10px;
+    border: 3px solid black;
+}
+
+#card h2{
+    font-family:'Lucida Sans';
+    text-align: center;
+    margin-top: 30%;
+}
+
+#card h2 span{
+    color: red;
+}
+
+#stories{
+    height: 100px;
+    width: 100%;
+    padding: 10px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom: 1px solid #555 ;
+    white-space: nowrap;  /* So that All stories displays in single horizontal line*/
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+
+#stories::-webkit-scrollbar{
+    /* display: none;  */
+    height: 5px;
+}
+
+#stories::-webkit-scrollbar-thumb {
+    background-color: rgb(136, 141, 136);
+  }
+  
+
+
+.story{
+    height: 80px;
+    width: 80px;
+    border: 2px solid red;
+    border-radius: 50%;
+    cursor: pointer;
+    margin-right: 5px;
+    overflow: hidden;
+    display: inline-block; /* takes width as much required and follows other properties of block (Here to arrange them horizontally)*/
+
+}
+
+
+.story img{
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+        object-position: center;
+}
+
+
+#footer{
+    text-align: center;
+    font-family: 'Trebuchet MS';
+    font-weight: 800;
+}
