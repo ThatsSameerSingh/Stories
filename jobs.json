@@ -1,0 +1,112 @@
+[
+  {
+    "id": 101,
+    "job_title": "Assistant Engineer (Mechanical)",
+    "department": "Public Works Department (PWD)",
+    "location": "Maharashtra",
+    "salary": "₹44,900 – ₹1,42,400",
+    "qualification": "B.E./B.Tech in Mechanical Engineering",
+    "deadline": "2025-07-09",
+    "apply_link": "#apply1",
+    "keywords": ["assistant engineer", "mechanical", "maharashtra", "pwd", "engineering", "govt"]
+  },
+  {
+    "id": 102,
+    "job_title": "Junior Data Entry Operator",
+    "department": "Income Tax Department",
+    "location": "New Delhi",
+    "salary": "₹25,500 – ₹81,100",
+    "qualification": "12th Pass + Typing Speed 35 WPM",
+    "deadline": "2025-07-15",
+    "apply_link": "#apply2",
+    "keywords": ["data entry", "typing", "income tax", "delhi", "clerk", "12th pass"]
+  },
+  {
+    "id": 103,
+    "job_title": "Scientific Assistant (Physics)",
+    "department": "ISRO",
+    "location": "Bengaluru",
+    "salary": "₹40,000 – ₹1,10,000",
+    "qualification": "B.Sc in Physics",
+    "deadline": "2025-07-19",
+    "apply_link": "#apply3",
+    "keywords": ["scientific", "isro", "physics", "bengaluru", "assistant", "space"]
+  },
+  {
+    "id": 104,
+    "job_title": "Lab Technician - Space Research",
+    "department": "ISRO",
+    "location": "Uttar Pradesh",
+    "salary": "₹38,000 – ₹95,000",
+    "qualification": "Diploma in Electronics/Instrumentation",
+    "deadline": "2025-07-01",
+    "apply_link": "#apply4",
+    "keywords": ["lab technician", "isro", "uttar pradesh", "electronics", "space", "research"]
+  },
+  {
+    "id": 105,
+    "job_title": "Site Engineer",
+    "department": "PWD (Urban Development)",
+    "location": "Rajasthan",
+    "salary": "₹47,600 – ₹1,51,100",
+    "qualification": "B.E. Civil + AutoCAD Certification",
+    "deadline": "2025-07-12",
+    "apply_link": "#apply5",
+    "keywords": ["site engineer", "pwd", "civil", "rajasthan", "urban", "autocad"]
+  },
+  {
+    "id": 106,
+    "job_title": "Structural Engineer",
+    "department": "Public Works Department",
+    "location": "Goa",
+    "salary": "₹50,000 – ₹1,60,000",
+    "qualification": "M.Tech in Structural Engineering",
+    "deadline": "2025-07-16",
+    "apply_link": "#apply6",
+    "keywords": ["structural", "engineer", "pwd", "goa", "mtech", "construction"]
+  },
+  {
+    "id": 107,
+    "job_title": "Clerk Cum Typist",
+    "department": "Ahmedabad Municipal Corporation",
+    "location": "Ahmedabad",
+    "salary": "₹21,700 – ₹69,100",
+    "qualification": "12th Pass + Certificate in Gujarati Typing",
+    "deadline": "2025-07-20",
+    "apply_link": "#apply7",
+    "keywords": ["clerk", "typist", "municipal", "ahmedabad", "typing", "government job"]
+  },
+  {
+    "id": 108,
+    "job_title": "Forest Ranger",
+    "department": "Uttarakhand Forest Department",
+    "location": "Uttarakhand",
+    "salary": "₹29,200 – ₹92,300",
+    "qualification": "B.Sc in Forestry or Environmental Science",
+    "deadline": "2025-07-18",
+    "apply_link": "#apply8",
+    "keywords": ["forest", "ranger", "uttarakhand", "environment", "forestry", "defense"]
+  },
+  {
+    "id": 109,
+    "job_title": "IT Technician",
+    "department": "Ministry of Electronics and IT",
+    "location": "Bangalore",
+    "salary": "₹42,000 fixed",
+    "qualification": "Diploma in IT or BCA",
+    "deadline": "2025-07-25",
+    "apply_link": "#apply9",
+    "keywords": ["it", "technician", "electronics", "bangalore", "bca", "networking"]
+  },
+  {
+    "id": 110,
+    "job_title": "Police Constable",
+    "department": "Uttar Pradesh Police Department",
+    "location": "Uttar Pradesh",
+    "salary": "₹30,000 – ₹60,000",
+    "qualification": "12th Pass + Physical Fitness Test",
+    "deadline": "2025-07-25",
+    "apply_link": "#apply10",
+    "keywords": ["up", "uttar pradesh", "police", "constable", "law", "defence"]
+  }
+]
